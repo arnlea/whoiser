@@ -1,5 +1,5 @@
 {
-  "name": "whoiser",
+  "name": "whoizer",
   "version": "1.0.0",
   "description": "Simple whois client to check status of any TLD.",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kanatann/whoiser.git"
+    "url": "git+https://github.com/arnlea/whoizer.git"
   },
   "keywords": [
     "whois",
     "domain whois"
   ],
-  "author": "kanatann",
+  "author": "arnlea",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kanatann/whoiser/issues"
+    "url": "https://github.com/arnlea/whoizer/issues"
   },
-  "homepage": "https://github.com/kanatann/whoiser#readme"
+  "homepage": "https://github.com/arnlea/whoizer#readme"
 }
