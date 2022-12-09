@@ -1,0 +1,23 @@
+{
+  "name": "whoiser",
+  "version": "1.0.0",
+  "description": "Simple whois client to check status of any TLD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanatann/whoiser.git"
+  },
+  "keywords": [
+    "whois",
+    "domain whois"
+  ],
+  "author": "kanatann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanatann/whoiser/issues"
+  },
+  "homepage": "https://github.com/kanatann/whoiser#readme"
+}
