@@ -2,7 +2,7 @@
 This is a simple whois library to fetch whois information of any domain name. All TLDs are supported, the module can find the whois server of any TLD by querying IANA.
 
 ## How to install?
-You can install the module with `npm i whoiser` command.
+You can install the module with `npm i whoisme` command.
 
 ## Example code
 ```js
