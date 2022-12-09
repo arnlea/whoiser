@@ -6,13 +6,11 @@ You can install the module with `npm i whoiser` command.
 
 ## Example code
 ```js
-const whoiser = require('whoiser');
+const whoisme = require('whoisme');
 
 (async() => {
-  let config =  {
-  };
-  let domain = 'google.dev';
-  let whoisData = await whoiser.getWhois(domain, config);
+  let domain = 'google.com';
+  let whoisData = await whoisme.getWhois(domain, config);
   console.log(whoisData);
 })();
 ```
